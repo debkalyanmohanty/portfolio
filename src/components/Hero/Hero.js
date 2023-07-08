@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
         Spiritually-grounded web developer passionate about crafting meaningful online experiences with a touch of transcendence
         </SectionText>
-        <Button onClick={() => (window.location = 'https://drive.google.com/file/d/1G28kJ5SHmNZL7k12ovhtOxGbJhkNhJ_v/view?usp=sharing')}>
+        <Button onClick={() => (window.location = 'https://drive.google.com/file/d/1vu9AHZ-KtRLP8iKh2G9DUgAxJkIh3mYM/view?usp=sharing')}>
           Resume
         </Button>
 
