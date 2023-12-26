@@ -4,10 +4,10 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 103, text: 'Solved Questions On Leetcode'},
+  { number: 184, text: 'Solved Questions On Leetcode'},
   { number: 1264, text: 'Rating On Leetcode' },
-  { number: 42, text: 'Days Active Streak On Leetcode', },
-  { number: 271, text: 'Solved Questions On CodeChef', }
+  { number: 100, text: 'Days Active Streak On Leetcode', },
+  { number: 6, text: 'Badges Earned On Leetcode', }
 ];
 
 const Acomplishments = () => (
