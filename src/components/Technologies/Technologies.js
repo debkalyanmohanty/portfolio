@@ -39,7 +39,7 @@ const Technologies = () =>  (
               Mongoose ODM<br/>
               MySQL <br/>
               REST API <br/>
-              Sockeyt IO<br/>
+              Socket.IO<br/>
             </ListParagraph>
           </ListContainer>
         </ListItem>
