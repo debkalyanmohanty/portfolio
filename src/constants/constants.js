@@ -8,6 +8,15 @@ export const projects = [
     visit: 'https://github.com/debkalyanmohanty/TWIN_AI',
     id: 0,
   },
+  {
+    title: 'TWIN FITNESS',
+    description: "Elevate workouts with React JS and Rapid API. Personalized plans, precise posture guidance, extensive exercise library, smart tracking, and a vibrant community. Your ultimate fitness companion for success!",
+      image: '/images/2.png',
+      tags: ['ReactJs', 'Rapid APi', 'HTML', 'CSS' ],
+    source: 'https://twin-fitness.vercel.app/',
+    visit: 'https://github.com/debkalyanmohanty/twin-fitness',
+    id: 1,
+  },
  
 ];
 

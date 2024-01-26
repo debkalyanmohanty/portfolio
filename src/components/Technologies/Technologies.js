@@ -33,6 +33,7 @@ const Technologies = () =>  (
           <ListContainer>
             <ListTitle>Back-End</ListTitle>
             <ListParagraph>
+              AWS<br/>
               NodeJs<br/>
               ExpressJs<br/>
               MongoDB<br/>
