@@ -4,10 +4,10 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 184, text: 'Solved Questions On Leetcode'},
-  { number: 1264, text: 'Rating On Leetcode' },
-  { number: 100, text: 'Days Active Streak On Leetcode', },
-  { number: 6, text: 'Badges Earned On Leetcode', }
+  { number: 864, text: 'Solved Questions On Leetcode' },
+  { number: 1264, text: 'Max Rating On Leetcode' },
+  { number: 500, text: 'Days Maximum Streak On Leetcode', },
+  { number: 34, text: 'Badges Earned On Leetcode', }
 ];
 
 const Acomplishments = () => (
@@ -16,7 +16,7 @@ const Acomplishments = () => (
       Personal Achievements
     </SectionTitle>
     <Boxes>
-      {data.map((card,index)=>(
+      {data.map((card, index) => (
         <Box key={index} >
           <BoxNum>{card.number}+</BoxNum>
           <BoxText>{card.text}</BoxText>
